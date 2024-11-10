@@ -1,3 +1,5 @@
+# About The Project#
+
 *RAG*
 
 Rag (Retreival Augmented Generation) Python solution with LLama3, LangChain, Ollama and ChromaDB in a Flask API based solution
