@@ -2,7 +2,7 @@
 
 🚀 **A Powerful Retrieval-Augmented Generation (RAG) API using LLama3, LangChain, Ollama, and ChromaDB**  
 
-![image](https://github.com/user-attachments/assets/44590e5d-ce11-4e75-bb44-42ca445726c8)
+![PDF_Searcher](https://github.com/user-attachments/assets/053688a0-63e7-4005-a258-69bc4200913a)
 
 
 ## 🔍 About The Project  
